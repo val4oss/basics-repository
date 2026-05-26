@@ -1,0 +1,8 @@
+version: 1
+labels:
+  - label: "bug"
+    title: "^bug:"
+  - label: "enhancement"
+    title: "^feat:"
+  - label: "documentation"
+    title: "^docs:"
