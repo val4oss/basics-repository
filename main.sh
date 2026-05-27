@@ -17,6 +17,7 @@
 
 GLOBAL_STRING="Hello, World!"
 
+# Function to print the global string
 print_global_string() {
     echo "$GLOBAL_STRING"
 }
